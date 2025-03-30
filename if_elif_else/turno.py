@@ -1,4 +1,4 @@
-# Faça um programa que pergunte em turno você estuda.Peça para digitar M - matutino ou V - vespertino ou N - noturno
+# 7.Faça um programa que pergunte em turno você estuda.Peça para digitar M - matutino ou V - vespertino ou N - noturno
 #Imprima a mensagem "bom dia","boa tarde" ou "boa noite" ou 'valor inválido, conforme o caso.
 
 turno = input(f"""
